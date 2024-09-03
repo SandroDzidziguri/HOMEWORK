@@ -3,4 +3,4 @@ universe.toLowerCase().trim()
 if(universe == "42"){console.log("yes")}
  else if(universe =="forty two"){console.log("yes")}
  else if (universe =="forty-two"){console.log("yes")}
- else {console.log("no")};
+ else {console.log("no")};  
